@@ -1628,7 +1628,7 @@ var config = {
     coinSymbol: 'XCY',
     coinName: 'CyprusCoin',
     coinUriPrefix: 'cypruscoin:',
-    addressPrefix: 411188
+    addressPrefix: 4111881
 };
 var cnUtil = (function(initConfig) {
     //var config = $.extend({}, initConfig);
